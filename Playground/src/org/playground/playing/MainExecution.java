@@ -10,8 +10,8 @@ public class MainExecution {
 		//ReverseCString checking = new ReverseCString("qwertyuiop1234567890");
 		//System.out.println(checking.reverse());
 		
-		RemoveDuplicate checking = new RemoveDuplicate("Hello World~!");
-		System.out.println(checking.remove());
+		//RemoveDuplicate checking = new RemoveDuplicate("Hello World~!");
+		//System.out.println(checking.remove());
 		
 		
 		

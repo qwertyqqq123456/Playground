@@ -13,6 +13,11 @@ public class MainExecution {
 		//RemoveDuplicate checking = new RemoveDuplicate("Hello World~!");
 		//System.out.println(checking.remove());
 		
+		//Anagrams checking = new Anagrams("apple", "el ppa");
+		//System.out.println(checking.checkingAnagrams());
+		
+		ReplaceSpace checking = new ReplaceSpace("Hello World Hey ~!");
+		System.out.println(checking.replaceSpace());
 		
 		
 		

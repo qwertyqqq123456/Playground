@@ -92,10 +92,19 @@ public class MainExecution {
 		}*/
 		
 		
+		/** LastNthNode
+		Node head = new Node(1);
+		head.append(new Node(2)).append(new Node(4)).append(new Node(5)).append(new Node(7)).append(new Node(2)).append(new Node(5));
 		
+		//LastNthNodeMethod1 checking = new LastNthNodeMethod1(head);	
+		//System.out.println("The value is: " + checking.getLastNthNode(5).intValue());
 		
+		//System.out.println("The value is: " + LastNthNodeMethod2.getLastNthNode(head, 5));
 		
-		
+		LastNthNodeMethod3 checking = new LastNthNodeMethod3(head);
+		System.out.println("The value is: " + checking.getLastNthNode(4).intValue());
+		*/
+			
 			
 	}
 
